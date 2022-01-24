@@ -1,0 +1,14 @@
+{
+	"highway":{
+		"toll":{
+			"1":"motorway",
+			"2":
+			}
+			},
+	"adver":{
+		"1":"caseta de peaje",
+		"2":"cruce de rio con bado",
+		"3":"cruce de rio sin bado",
+		"4":"Camino de terraceria",
+		"5":"caseta de peaje",
+	}
