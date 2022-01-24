@@ -1,0 +1,2 @@
+
+print "crear archivo osm"
